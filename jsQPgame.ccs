@@ -1,0 +1,67 @@
+<Solution>
+  <PropertyGroup Name="jsQPgame" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="end">
+          <Image Name="uiend_lose.png" />
+          <Image Name="uiend_win.png" />
+          <Image Name="uiend_zlyj.png" />
+        </Folder>
+        <Folder Name="ui1">
+          <Image Name="111.png" />
+          <Image Name="inputname.png" />
+          <Image Name="select.png" />
+          <Image Name="selectbg.png" />
+          <Image Name="selectok.png" />
+          <Image Name="ui1_bg.png" />
+          <Image Name="ui1_btnbg.png" />
+          <Image Name="ui1_cjfjtxt.png" />
+          <Image Name="ui1_gamename.png" />
+          <Image Name="ui1_jrfjtxt.png" />
+          <Image Name="ui1_renshutxt.png" />
+          <Image Name="ui1_sfkgktxt.png" />
+          <Image Name="ui1_sfybbtxt.png" />
+          <Image Name="ui11_roomnum.png" />
+        </Folder>
+        <Folder Name="uift">
+          <Image Name="uiend_line.png" />
+          <Image Name="uift_baiban.png" />
+          <Image Name="uift_btnbg.png" />
+          <Image Name="uift_exit.png" />
+          <Image Name="uift_hesekuang.png" />
+          <Image Name="uift_jiantoubg.png" />
+          <Image Name="uift_jtbodyhese.png" />
+          <Image Name="uift_jtbodylan.png" />
+          <Image Name="uift_jtbodylv.png" />
+          <Image Name="uift_jtbodyqlan.png" />
+          <Image Name="uift_jtbodyred.png" />
+          <Image Name="uift_jthesetou.png" />
+          <Image Name="uift_jtredtou.png" />
+          <Image Name="uift_jtredtqlan.png" />
+          <Image Name="uift_jttoulan.png" />
+          <Image Name="uift_jttoulv.png" />
+          <Image Name="uift_lansekuang.png" />
+          <Image Name="uift_lvsekuang.png" />
+          <Image Name="uift_mykey.png" />
+          <Image Name="uift_nowspeak.png" />
+          <Image Name="uift_pen.png" />
+          <Image Name="uift_pingmin.png" />
+          <Image Name="uift_point.png" />
+          <Image Name="uift_qd.png" />
+          <Image Name="uift_redkuang.png" />
+          <Image Name="uift_roomnum.png" />
+          <Image Name="uift_sljg.png" />
+          <Image Name="uift_touxiangkuang.png" />
+          <Image Name="uift_wodi.png" />
+          <Image Name="uift_zekuang.png" />
+          <Image Name="uift_zrwd.png" />
+        </Folder>
+        <Project Name="createRoom.csd" Type="Scene" />
+        <Project Name="gameLayer.csd" Type="Layer" />
+        <Project Name="MainScene.csd" Type="Scene" />
+        <Project Name="score.csd" Type="Layer" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
