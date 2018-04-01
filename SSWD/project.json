@@ -13,6 +13,11 @@
 
     "jsList" : [
         "src/resource.js",
-        "src/app.js"
+        "src/app.js",
+        "src/createscence.js",
+        "src/endscence.js",
+        "src/gamescence.js",
+        "src/mainscence.js"
+
     ]
 }

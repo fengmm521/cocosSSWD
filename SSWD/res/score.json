@@ -1,0 +1,2034 @@
+{
+  "ID": "96d70abb-26bf-47d4-8725-ffef0aa14a54",
+  "Version": "2.3.4",
+  "Name": "score",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 108,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "ui1/ui1_bg.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 109,
+            "ActionTag": -548808565,
+            "Size": {
+              "X": 750.0,
+              "Y": 1334.0
+            },
+            "Name": "bg",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "uift/uiend_line.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 371.4086,
+              "Y": 1088.8911
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4952,
+              "Y": 0.8163
+            },
+            "PreSize": {
+              "X": 0.9173,
+              "Y": 0.0082
+            },
+            "LeftMargin": 27.4086,
+            "RightMargin": 34.5914,
+            "TopMargin": 239.6089,
+            "BottomMargin": 1083.3911,
+            "Tag": 110,
+            "ActionTag": -532222098,
+            "Size": {
+              "X": 688.0,
+              "Y": 11.0
+            },
+            "Name": "uiend_line_2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 178,
+              "G": 187,
+              "B": 188
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 25.5569,
+              "Y": 912.5474
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0341,
+              "Y": 0.6841
+            },
+            "PreSize": {
+              "X": 0.9333,
+              "Y": 0.1199
+            },
+            "LeftMargin": 25.5569,
+            "RightMargin": 24.4431,
+            "TopMargin": 261.4526,
+            "BottomMargin": 912.5474,
+            "Tag": 112,
+            "Children": [
+              {
+                "FontSize": 48,
+                "LabelText": "mykey",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 163.0938,
+                  "Y": 48.3611
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 0,
+                  "G": 128,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.233,
+                  "Y": 0.3023
+                },
+                "PreSize": {
+                  "X": 0.1986,
+                  "Y": 0.3375
+                },
+                "LeftMargin": 163.0938,
+                "RightMargin": 397.9062,
+                "TopMargin": 84.6387,
+                "BottomMargin": 21.3613,
+                "Tag": 114,
+                "ActionTag": -1778381940,
+                "Size": {
+                  "X": 139.0,
+                  "Y": 54.0
+                },
+                "Name": "txtkey",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "uift/uift_hesekuang.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 69.8528,
+                  "Y": 86.2528
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0998,
+                  "Y": 0.5391
+                },
+                "PreSize": {
+                  "X": 0.1543,
+                  "Y": 0.7312
+                },
+                "LeftMargin": 15.8528,
+                "RightMargin": 576.1472,
+                "TopMargin": 15.2472,
+                "BottomMargin": 27.7528,
+                "Tag": 113,
+                "ActionTag": -1047651658,
+                "Size": {
+                  "X": 108.0,
+                  "Y": 117.0
+                },
+                "Name": "ufram",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "uift/uift_pingmin.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 599.7022,
+                  "Y": 83.5003
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8567,
+                  "Y": 0.5219
+                },
+                "PreSize": {
+                  "X": 0.1257,
+                  "Y": 0.2875
+                },
+                "LeftMargin": 555.7022,
+                "RightMargin": 56.2978,
+                "TopMargin": 53.4997,
+                "BottomMargin": 60.5003,
+                "Tag": 116,
+                "ActionTag": -389331795,
+                "Size": {
+                  "X": 88.0,
+                  "Y": 46.0
+                },
+                "Name": "pinmin",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "uift/uift_wodi.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 601.4073,
+                  "Y": 86.9076
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8592,
+                  "Y": 0.5432
+                },
+                "PreSize": {
+                  "X": 0.1086,
+                  "Y": 0.2625
+                },
+                "LeftMargin": 563.4073,
+                "RightMargin": 60.5927,
+                "TopMargin": 52.0924,
+                "BottomMargin": 65.9076,
+                "Tag": 117,
+                "ActionTag": -841456234,
+                "Size": {
+                  "X": 76.0,
+                  "Y": 42.0
+                },
+                "Name": "wodi",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "uift/uift_baiban.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 596.2986,
+                  "Y": 83.4984
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8519,
+                  "Y": 0.5219
+                },
+                "PreSize": {
+                  "X": 0.1286,
+                  "Y": 0.2688
+                },
+                "LeftMargin": 551.2986,
+                "RightMargin": 58.7014,
+                "TopMargin": 55.0016,
+                "BottomMargin": 61.9984,
+                "Tag": 118,
+                "ActionTag": 1866910051,
+                "Size": {
+                  "X": 90.0,
+                  "Y": 43.0
+                },
+                "Name": "baiban",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FontSize": 48,
+                "LabelText": "myname",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 166.2794,
+                  "Y": 120.1389
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 26,
+                  "G": 26,
+                  "B": 26
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2375,
+                  "Y": 0.7509
+                },
+                "PreSize": {
+                  "X": 0.2643,
+                  "Y": 0.3375
+                },
+                "LeftMargin": 166.2794,
+                "RightMargin": 348.7206,
+                "TopMargin": 12.8609,
+                "BottomMargin": 93.1391,
+                "Tag": 115,
+                "ActionTag": 540411293,
+                "Size": {
+                  "X": 185.0,
+                  "Y": 54.0
+                },
+                "Name": "txt_uname",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -793364989,
+            "Size": {
+              "X": 700.0,
+              "Y": 160.0
+            },
+            "Name": "Panel_1",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 178,
+              "G": 187,
+              "B": 188
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 23.6317,
+              "Y": 732.1779
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0315,
+              "Y": 0.5489
+            },
+            "PreSize": {
+              "X": 0.9333,
+              "Y": 0.1199
+            },
+            "LeftMargin": 23.6317,
+            "RightMargin": 26.3683,
+            "TopMargin": 441.8221,
+            "BottomMargin": 732.1779,
+            "Tag": 119,
+            "Children": [
+              {
+                "FontSize": 48,
+                "LabelText": "mykey",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 163.0938,
+                  "Y": 48.3611
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 0,
+                  "G": 128,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.233,
+                  "Y": 0.3023
+                },
+                "PreSize": {
+                  "X": 0.1986,
+                  "Y": 0.3375
+                },
+                "LeftMargin": 163.0938,
+                "RightMargin": 397.9062,
+                "TopMargin": 84.6387,
+                "BottomMargin": 21.3613,
+                "Tag": 120,
+                "ActionTag": -23357126,
+                "Size": {
+                  "X": 139.0,
+                  "Y": 54.0
+                },
+                "Name": "txtkey",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "uift/uift_hesekuang.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 69.8528,
+                  "Y": 86.2528
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0998,
+                  "Y": 0.5391
+                },
+                "PreSize": {
+                  "X": 0.1543,
+                  "Y": 0.7312
+                },
+                "LeftMargin": 15.8528,
+                "RightMargin": 576.1472,
+                "TopMargin": 15.2472,
+                "BottomMargin": 27.7528,
+                "Tag": 121,
+                "ActionTag": -649273567,
+                "Size": {
+                  "X": 108.0,
+                  "Y": 117.0
+                },
+                "Name": "ufram",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "uift/uift_pingmin.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 599.7022,
+                  "Y": 83.5003
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8567,
+                  "Y": 0.5219
+                },
+                "PreSize": {
+                  "X": 0.1257,
+                  "Y": 0.2875
+                },
+                "LeftMargin": 555.7022,
+                "RightMargin": 56.2978,
+                "TopMargin": 53.4997,
+                "BottomMargin": 60.5003,
+                "Tag": 122,
+                "ActionTag": 444189395,
+                "Size": {
+                  "X": 88.0,
+                  "Y": 46.0
+                },
+                "Name": "pinmin",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "uift/uift_wodi.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 601.4073,
+                  "Y": 86.9076
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8592,
+                  "Y": 0.5432
+                },
+                "PreSize": {
+                  "X": 0.1086,
+                  "Y": 0.2625
+                },
+                "LeftMargin": 563.4073,
+                "RightMargin": 60.5927,
+                "TopMargin": 52.0924,
+                "BottomMargin": 65.9076,
+                "Tag": 123,
+                "ActionTag": -3660630,
+                "Size": {
+                  "X": 76.0,
+                  "Y": 42.0
+                },
+                "Name": "wodi",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "uift/uift_baiban.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 596.2986,
+                  "Y": 83.4984
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8519,
+                  "Y": 0.5219
+                },
+                "PreSize": {
+                  "X": 0.1286,
+                  "Y": 0.2688
+                },
+                "LeftMargin": 551.2986,
+                "RightMargin": 58.7014,
+                "TopMargin": 55.0016,
+                "BottomMargin": 61.9984,
+                "Tag": 124,
+                "ActionTag": -98830864,
+                "Size": {
+                  "X": 90.0,
+                  "Y": 43.0
+                },
+                "Name": "baiban",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FontSize": 48,
+                "LabelText": "myname",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 166.2794,
+                  "Y": 120.1389
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 26,
+                  "G": 26,
+                  "B": 26
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2375,
+                  "Y": 0.7509
+                },
+                "PreSize": {
+                  "X": 0.2643,
+                  "Y": 0.3375
+                },
+                "LeftMargin": 166.2794,
+                "RightMargin": 348.7206,
+                "TopMargin": 12.8609,
+                "BottomMargin": 93.1391,
+                "Tag": 125,
+                "ActionTag": -259322789,
+                "Size": {
+                  "X": 185.0,
+                  "Y": 54.0
+                },
+                "Name": "txt_uname",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 42468035,
+            "Size": {
+              "X": 700.0,
+              "Y": 160.0
+            },
+            "Name": "Panel_1_0",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 178,
+              "G": 187,
+              "B": 188
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 23.6323,
+              "Y": 549.8818
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0315,
+              "Y": 0.4122
+            },
+            "PreSize": {
+              "X": 0.9333,
+              "Y": 0.1199
+            },
+            "LeftMargin": 23.6323,
+            "RightMargin": 26.3677,
+            "TopMargin": 624.1182,
+            "BottomMargin": 549.8818,
+            "Tag": 126,
+            "Children": [
+              {
+                "FontSize": 48,
+                "LabelText": "mykey",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 163.0938,
+                  "Y": 48.3611
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 0,
+                  "G": 128,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.233,
+                  "Y": 0.3023
+                },
+                "PreSize": {
+                  "X": 0.1986,
+                  "Y": 0.3375
+                },
+                "LeftMargin": 163.0938,
+                "RightMargin": 397.9062,
+                "TopMargin": 84.6387,
+                "BottomMargin": 21.3613,
+                "Tag": 127,
+                "ActionTag": 605967859,
+                "Size": {
+                  "X": 139.0,
+                  "Y": 54.0
+                },
+                "Name": "txtkey",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "uift/uift_hesekuang.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 69.8528,
+                  "Y": 86.2528
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0998,
+                  "Y": 0.5391
+                },
+                "PreSize": {
+                  "X": 0.1543,
+                  "Y": 0.7312
+                },
+                "LeftMargin": 15.8528,
+                "RightMargin": 576.1472,
+                "TopMargin": 15.2472,
+                "BottomMargin": 27.7528,
+                "Tag": 128,
+                "ActionTag": 1810715884,
+                "Size": {
+                  "X": 108.0,
+                  "Y": 117.0
+                },
+                "Name": "ufram",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "uift/uift_pingmin.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 599.7022,
+                  "Y": 83.5003
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8567,
+                  "Y": 0.5219
+                },
+                "PreSize": {
+                  "X": 0.1257,
+                  "Y": 0.2875
+                },
+                "LeftMargin": 555.7022,
+                "RightMargin": 56.2978,
+                "TopMargin": 53.4997,
+                "BottomMargin": 60.5003,
+                "Tag": 129,
+                "ActionTag": -1455067562,
+                "Size": {
+                  "X": 88.0,
+                  "Y": 46.0
+                },
+                "Name": "pinmin",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "uift/uift_wodi.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 601.4073,
+                  "Y": 86.9076
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8592,
+                  "Y": 0.5432
+                },
+                "PreSize": {
+                  "X": 0.1086,
+                  "Y": 0.2625
+                },
+                "LeftMargin": 563.4073,
+                "RightMargin": 60.5927,
+                "TopMargin": 52.0924,
+                "BottomMargin": 65.9076,
+                "Tag": 130,
+                "ActionTag": 1811441674,
+                "Size": {
+                  "X": 76.0,
+                  "Y": 42.0
+                },
+                "Name": "wodi",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "uift/uift_baiban.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 596.2986,
+                  "Y": 83.4984
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8519,
+                  "Y": 0.5219
+                },
+                "PreSize": {
+                  "X": 0.1286,
+                  "Y": 0.2688
+                },
+                "LeftMargin": 551.2986,
+                "RightMargin": 58.7014,
+                "TopMargin": 55.0016,
+                "BottomMargin": 61.9984,
+                "Tag": 131,
+                "ActionTag": 1995252318,
+                "Size": {
+                  "X": 90.0,
+                  "Y": 43.0
+                },
+                "Name": "baiban",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FontSize": 48,
+                "LabelText": "myname",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 166.2794,
+                  "Y": 120.1389
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 26,
+                  "G": 26,
+                  "B": 26
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2375,
+                  "Y": 0.7509
+                },
+                "PreSize": {
+                  "X": 0.2643,
+                  "Y": 0.3375
+                },
+                "LeftMargin": 166.2794,
+                "RightMargin": 348.7206,
+                "TopMargin": 12.8609,
+                "BottomMargin": 93.1391,
+                "Tag": 132,
+                "ActionTag": 858221732,
+                "Size": {
+                  "X": 185.0,
+                  "Y": 54.0
+                },
+                "Name": "txt_uname",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -1440644223,
+            "Size": {
+              "X": 700.0,
+              "Y": 160.0
+            },
+            "Name": "Panel_1_1",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 178,
+              "G": 187,
+              "B": 188
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 23.6331,
+              "Y": 365.8818
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0315,
+              "Y": 0.2743
+            },
+            "PreSize": {
+              "X": 0.9333,
+              "Y": 0.1199
+            },
+            "LeftMargin": 23.6331,
+            "RightMargin": 26.3669,
+            "TopMargin": 808.1182,
+            "BottomMargin": 365.8818,
+            "Tag": 133,
+            "Children": [
+              {
+                "FontSize": 48,
+                "LabelText": "mykey",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 163.0938,
+                  "Y": 48.3611
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 0,
+                  "G": 128,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.233,
+                  "Y": 0.3023
+                },
+                "PreSize": {
+                  "X": 0.1986,
+                  "Y": 0.3375
+                },
+                "LeftMargin": 163.0938,
+                "RightMargin": 397.9062,
+                "TopMargin": 84.6387,
+                "BottomMargin": 21.3613,
+                "Tag": 134,
+                "ActionTag": 1907531533,
+                "Size": {
+                  "X": 139.0,
+                  "Y": 54.0
+                },
+                "Name": "txtkey",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "uift/uift_hesekuang.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 69.8528,
+                  "Y": 86.2528
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0998,
+                  "Y": 0.5391
+                },
+                "PreSize": {
+                  "X": 0.1543,
+                  "Y": 0.7312
+                },
+                "LeftMargin": 15.8528,
+                "RightMargin": 576.1472,
+                "TopMargin": 15.2472,
+                "BottomMargin": 27.7528,
+                "Tag": 135,
+                "ActionTag": -1398030397,
+                "Size": {
+                  "X": 108.0,
+                  "Y": 117.0
+                },
+                "Name": "ufram",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "uift/uift_pingmin.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 599.7022,
+                  "Y": 83.5003
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8567,
+                  "Y": 0.5219
+                },
+                "PreSize": {
+                  "X": 0.1257,
+                  "Y": 0.2875
+                },
+                "LeftMargin": 555.7022,
+                "RightMargin": 56.2978,
+                "TopMargin": 53.4997,
+                "BottomMargin": 60.5003,
+                "Tag": 136,
+                "ActionTag": -755957779,
+                "Size": {
+                  "X": 88.0,
+                  "Y": 46.0
+                },
+                "Name": "pinmin",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "uift/uift_wodi.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 601.4073,
+                  "Y": 86.9076
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8592,
+                  "Y": 0.5432
+                },
+                "PreSize": {
+                  "X": 0.1086,
+                  "Y": 0.2625
+                },
+                "LeftMargin": 563.4073,
+                "RightMargin": 60.5927,
+                "TopMargin": 52.0924,
+                "BottomMargin": 65.9076,
+                "Tag": 137,
+                "ActionTag": 2052339388,
+                "Size": {
+                  "X": 76.0,
+                  "Y": 42.0
+                },
+                "Name": "wodi",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "uift/uift_baiban.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 596.2986,
+                  "Y": 83.4984
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8519,
+                  "Y": 0.5219
+                },
+                "PreSize": {
+                  "X": 0.1286,
+                  "Y": 0.2688
+                },
+                "LeftMargin": 551.2986,
+                "RightMargin": 58.7014,
+                "TopMargin": 55.0016,
+                "BottomMargin": 61.9984,
+                "Tag": 138,
+                "ActionTag": 2141649539,
+                "Size": {
+                  "X": 90.0,
+                  "Y": 43.0
+                },
+                "Name": "baiban",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FontSize": 48,
+                "LabelText": "myname",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 166.2794,
+                  "Y": 120.1389
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 26,
+                  "G": 26,
+                  "B": 26
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2375,
+                  "Y": 0.7509
+                },
+                "PreSize": {
+                  "X": 0.2643,
+                  "Y": 0.3375
+                },
+                "LeftMargin": 166.2794,
+                "RightMargin": 348.7206,
+                "TopMargin": 12.8609,
+                "BottomMargin": 93.1391,
+                "Tag": 139,
+                "ActionTag": 690982437,
+                "Size": {
+                  "X": 185.0,
+                  "Y": 54.0
+                },
+                "Name": "txt_uname",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 872333504,
+            "Size": {
+              "X": 700.0,
+              "Y": 160.0
+            },
+            "Name": "Panel_1_2",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 178,
+              "G": 187,
+              "B": 188
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 21.9296,
+              "Y": 181.8819
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0292,
+              "Y": 0.1363
+            },
+            "PreSize": {
+              "X": 0.9333,
+              "Y": 0.1199
+            },
+            "LeftMargin": 21.9296,
+            "RightMargin": 28.0704,
+            "TopMargin": 992.1181,
+            "BottomMargin": 181.8819,
+            "Tag": 140,
+            "Children": [
+              {
+                "FontSize": 48,
+                "LabelText": "mykey",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 163.0938,
+                  "Y": 48.3611
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 0,
+                  "G": 128,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.233,
+                  "Y": 0.3023
+                },
+                "PreSize": {
+                  "X": 0.1986,
+                  "Y": 0.3375
+                },
+                "LeftMargin": 163.0938,
+                "RightMargin": 397.9062,
+                "TopMargin": 84.6387,
+                "BottomMargin": 21.3613,
+                "Tag": 141,
+                "ActionTag": 2004332335,
+                "Size": {
+                  "X": 139.0,
+                  "Y": 54.0
+                },
+                "Name": "txtkey",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "uift/uift_hesekuang.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 69.8528,
+                  "Y": 86.2528
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0998,
+                  "Y": 0.5391
+                },
+                "PreSize": {
+                  "X": 0.1543,
+                  "Y": 0.7312
+                },
+                "LeftMargin": 15.8528,
+                "RightMargin": 576.1472,
+                "TopMargin": 15.2472,
+                "BottomMargin": 27.7528,
+                "Tag": 142,
+                "ActionTag": -1274462761,
+                "Size": {
+                  "X": 108.0,
+                  "Y": 117.0
+                },
+                "Name": "ufram",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "uift/uift_pingmin.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 599.7022,
+                  "Y": 83.5003
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8567,
+                  "Y": 0.5219
+                },
+                "PreSize": {
+                  "X": 0.1257,
+                  "Y": 0.2875
+                },
+                "LeftMargin": 555.7022,
+                "RightMargin": 56.2978,
+                "TopMargin": 53.4997,
+                "BottomMargin": 60.5003,
+                "Tag": 143,
+                "ActionTag": -1194640306,
+                "Size": {
+                  "X": 88.0,
+                  "Y": 46.0
+                },
+                "Name": "pinmin",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "uift/uift_wodi.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 601.4073,
+                  "Y": 86.9076
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8592,
+                  "Y": 0.5432
+                },
+                "PreSize": {
+                  "X": 0.1086,
+                  "Y": 0.2625
+                },
+                "LeftMargin": 563.4073,
+                "RightMargin": 60.5927,
+                "TopMargin": 52.0924,
+                "BottomMargin": 65.9076,
+                "Tag": 144,
+                "ActionTag": 17150634,
+                "Size": {
+                  "X": 76.0,
+                  "Y": 42.0
+                },
+                "Name": "wodi",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "uift/uift_baiban.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 596.2986,
+                  "Y": 83.4984
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8519,
+                  "Y": 0.5219
+                },
+                "PreSize": {
+                  "X": 0.1286,
+                  "Y": 0.2688
+                },
+                "LeftMargin": 551.2986,
+                "RightMargin": 58.7014,
+                "TopMargin": 55.0016,
+                "BottomMargin": 61.9984,
+                "Tag": 145,
+                "ActionTag": 106393032,
+                "Size": {
+                  "X": 90.0,
+                  "Y": 43.0
+                },
+                "Name": "baiban",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FontSize": 48,
+                "LabelText": "myname",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 166.2794,
+                  "Y": 120.1389
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 26,
+                  "G": 26,
+                  "B": 26
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2375,
+                  "Y": 0.7509
+                },
+                "PreSize": {
+                  "X": 0.2643,
+                  "Y": 0.3375
+                },
+                "LeftMargin": 166.2794,
+                "RightMargin": 348.7206,
+                "TopMargin": 12.8609,
+                "BottomMargin": 93.1391,
+                "Tag": 146,
+                "ActionTag": -2053626168,
+                "Size": {
+                  "X": 185.0,
+                  "Y": 54.0
+                },
+                "Name": "txt_uname",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 516749378,
+            "Size": {
+              "X": 700.0,
+              "Y": 160.0
+            },
+            "Name": "Panel_1_3",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "end/uiend_lose.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 386.7399,
+              "Y": 1172.3713
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5157,
+              "Y": 0.8788
+            },
+            "PreSize": {
+              "X": 0.4253,
+              "Y": 0.0697
+            },
+            "LeftMargin": 227.2399,
+            "RightMargin": 203.7601,
+            "TopMargin": 115.1287,
+            "BottomMargin": 1125.8713,
+            "Tag": 147,
+            "ActionTag": 87161345,
+            "Size": {
+              "X": 319.0,
+              "Y": 93.0
+            },
+            "Name": "lose",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "end/uiend_win.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 383.3331,
+              "Y": 1172.3708
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5111,
+              "Y": 0.8788
+            },
+            "PreSize": {
+              "X": 0.44,
+              "Y": 0.0877
+            },
+            "LeftMargin": 218.3331,
+            "RightMargin": 201.6669,
+            "TopMargin": 103.1292,
+            "BottomMargin": 1113.8708,
+            "Tag": 148,
+            "ActionTag": 659003133,
+            "Size": {
+              "X": 330.0,
+              "Y": 117.0
+            },
+            "Name": "win",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "uift/uift_btnbg.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "uift/uift_btnbg.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "uift/uift_btnbg.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 291,
+            "Scale9Height": 91,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 364.5932,
+              "Y": 91.7758
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4861,
+              "Y": 0.0688
+            },
+            "PreSize": {
+              "X": 0.428,
+              "Y": 0.0847
+            },
+            "LeftMargin": 204.0932,
+            "RightMargin": 224.9068,
+            "TopMargin": 1185.7242,
+            "BottomMargin": 35.2758,
+            "Tag": 153,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "end/uiend_zlyj.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 170.3715,
+                  "Y": 62.8123
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5308,
+                  "Y": 0.5559
+                },
+                "PreSize": {
+                  "X": 0.6449,
+                  "Y": 0.6726
+                },
+                "LeftMargin": 66.8715,
+                "RightMargin": 47.1285,
+                "TopMargin": 12.1877,
+                "BottomMargin": 24.8123,
+                "Tag": 150,
+                "ActionTag": 654664772,
+                "Size": {
+                  "X": 207.0,
+                  "Y": 76.0
+                },
+                "Name": "txt_zlyj",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": 1280851756,
+            "Size": {
+              "X": 321.0,
+              "Y": 113.0
+            },
+            "Name": "btn_restart",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 750.0,
+          "Y": 1334.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "end/uiend_lose.png",
+        "end/uiend_win.png",
+        "end/uiend_zlyj.png",
+        "ui1/ui1_bg.png",
+        "uift/uiend_line.png",
+        "uift/uift_baiban.png",
+        "uift/uift_btnbg.png",
+        "uift/uift_hesekuang.png",
+        "uift/uift_pingmin.png",
+        "uift/uift_wodi.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

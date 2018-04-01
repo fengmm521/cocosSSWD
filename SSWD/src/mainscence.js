@@ -1,5 +1,5 @@
 
-var mainLayer = cc.Layer.extend({
+var FirstUILayer = cc.Layer.extend({
     sprite:null,
     ctor:function () {
         //////////////////////////////
@@ -35,10 +35,10 @@ var mainLayer = cc.Layer.extend({
     }
 });
 
-var mainlayerScence = cc.Scene.extend({
+var FirstUILayer = cc.Scene.extend({
     onEnter:function () {
         this._super();
-        var layer = new mainLayer();
+        var layer = new FirstUILayer();
         this.addChild(layer);
     }
 });

@@ -1,5 +1,5 @@
 
-var mainLayer = cc.Layer.extend({
+var creaesLayer = cc.Layer.extend({
     sprite:null,
     ctor:function () {
         //////////////////////////////
@@ -12,6 +12,8 @@ var mainLayer = cc.Layer.extend({
         // ask the window size
         var size = cc.winSize;
 
+
+        
         /////////////////////////////
         // 3. add your codes below...
         // add a label shows "Hello World"
@@ -35,10 +37,10 @@ var mainLayer = cc.Layer.extend({
     }
 });
 
-var mainlayerScence = cc.Scene.extend({
+var creaesScence = cc.Scene.extend({
     onEnter:function () {
         this._super();
-        var layer = new mainLayer();
+        var layer = new creaesLayer();
         this.addChild(layer);
     }
 });
