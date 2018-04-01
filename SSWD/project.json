@@ -3,13 +3,13 @@
 
     "debugMode" : 1,
     "showFPS" : true,
-    "frameRate" : 60,
+    "frameRate" : 30,
     "noCache" : false,
     "id" : "gameCanvas",
     "renderMode" : 0,
     "engineDir":"frameworks/cocos2d-html5",
 
-    "modules" : ["cocos2d"],
+    "modules" : ["cocos2d","extensions"],
 
     "jsList" : [
         "src/resource.js",
@@ -18,6 +18,5 @@
         "src/endscence.js",
         "src/gamescence.js",
         "src/mainscence.js"
-
     ]
 }

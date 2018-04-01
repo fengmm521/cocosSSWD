@@ -36,7 +36,7 @@
           <FilePathData Path="gameLayer.csd" />
           <FilePathData Path="score.csd" />
         </OpenedDocuments>
-        <ActiveDocument Path="score.csd" />
+        <ActiveDocument Path="MainScene.csd" />
       </Value>
     </Item>
   </Properties>
